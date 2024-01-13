@@ -1,0 +1,16 @@
+{
+  "regsuccess": {
+    "status": 1,
+    "message": "ok",
+    "data": {
+      "id": 70
+    }
+  },
+  "regfail": {
+    "status": 0,
+    "message": "fail",
+    "data": {
+      "id": 0
+    }
+  }
+}
