@@ -12,5 +12,21 @@
     "data": {
       "id": 0
     }
+  },
+  "owner": {
+    "data": [
+      {
+        "id": 1,
+        "name": "owner1"
+      },
+      {
+        "id": 2,
+        "name": "owner2"
+      },
+      {
+        "id": 3,
+        "name": "owner3"
+      }
+    ]
   }
 }
