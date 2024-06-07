@@ -38,7 +38,7 @@
           {
             "id": 1,
             "title": "Desc",
-            "coverImageUrl": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "coverImageUrl": "",
             "type": "text",
             "text": "[EDIT] In this course, we try to focus on computing principles (big ideas) rather than computer technologies, which are tools and applications of the principles. Computing is defined by a set of principles or ideas, which underlies a myriad of technologies that are created based on the principles. Technologies can be complex and constantly evolving but principles stays the same. In the second half of the course, we will study various technologies to demonstrate the power of computing and how principles are applied."
           },
