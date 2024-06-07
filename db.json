@@ -38,28 +38,28 @@
           {
             "id": 1,
             "title": "Desc",
-            "coverImageUrl": "https://picsum.photos/seed/1/600/400",
+            "coverImageUrl": "https://picsum.photos/id/16/600/400",
             "type": "text",
             "text": "[EDIT] In this course, we try to focus on computing principles (big ideas) rather than computer technologies, which are tools and applications of the principles. Computing is defined by a set of principles or ideas, which underlies a myriad of technologies that are created based on the principles. Technologies can be complex and constantly evolving but principles stays the same. In the second half of the course, we will study various technologies to demonstrate the power of computing and how principles are applied."
           },
           {
             "id": 2,
             "title": "Let's Play Games",
-            "coverImageUrl": "https://picsum.photos/seed/2/600/400",
+            "coverImageUrl": "https://picsum.photos/id/17/600/400",
             "type": "interactive",
             "scormUrl": "https://scorm.com/scorm-explained/technical-scorm/tin-can-api/"
           },
           {
             "id": 3,
             "title": "What is Computing?",
-            "coverImageUrl": "https://picsum.photos/seed/3/600/400",
+            "coverImageUrl": "https://picsum.photos/id/18/600/400",
             "type": "link",
             "link": "https://en.wikipedia.org/wiki/Computing"
           },
           {
             "id": 4,
             "title": "Manim Video",
-            "coverImageUrl": "https://picsum.photos/seed/4/600/400",
+            "coverImageUrl": "https://picsum.photos/id/19/600/400",
             "type": "video",
             "link": "https://www.youtube.com/watch?v=OMr9vT6Y2fM"
           }
@@ -72,28 +72,28 @@
           {
             "id": 5,
             "title": "Basic Equation",
-            "coverImageUrl": "https://picsum.photos/seed/5/600/400",
+            "coverImageUrl": "https://picsum.photos/id/20/600/400",
             "type": "video",
             "link": "https://www.youtube.com/watch?v=OMr9vT6Y2fM"
           },
           {
             "id": 6,
             "title": "Desc",
-            "coverImageUrl": "https://picsum.photos/seed/6/600/400",
+            "coverImageUrl": "https://picsum.photos/id/21/600/400",
             "type": "text",
             "text": "Computing is fundamentally about information processes. One of the big ideas of computing is that information processes can be carried out purely mechanically via symbol manipulation. The agent that does the computing, whether a thinking human being or a machine (computer), does not matter. Toward the end of the book we will see this is true for all modern computers - digital computers manipulate two symbols (zero and one) blindly according to instructions."
           },
           {
             "id": 7,
             "title": "[Template] Final Report",
-            "coverImageUrl": "https://picsum.photos/seed/7/600/400",
+            "coverImageUrl": "https://picsum.photos/id/22/600/400",
             "type": "file",
             "link": "https://www.w3.org/WAI/ER/tools/complete"
           },
           {
             "id": 8,
             "title": "Difference engine",
-            "coverImageUrl": "https://picsum.photos/seed/8/600/400",
+            "coverImageUrl": "https://picsum.photos/id/23/600/400",
             "type": "link",
             "link": "https://en.wikipedia.org/wiki/Difference_engine"
           }
