@@ -96,6 +96,13 @@
             "coverImageUrl": "https://picsum.photos/id/23/600/400",
             "type": "link",
             "link": "https://en.wikipedia.org/wiki/Difference_engine"
+          },
+          {
+            "id": 9,
+            "title": "Basic Combustion",
+            "coverImageUrl": "https://picsum.photos/id/27/600/400",
+            "type": "blc",
+            "scormUrl": "https://scorm.com/scorm-explained/technical-scorm/tin-can-api/"
           }
         ]
       }
