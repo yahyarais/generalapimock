@@ -45,14 +45,14 @@
           {
             "id": 2,
             "title": "Let's Play Games",
-            "coverImageUrl": "https://picsum.photos/id/17/600/400",
+            "coverImageUrl": "",
             "type": "interactive",
             "scormUrl": "https://scorm.com/scorm-explained/technical-scorm/tin-can-api/"
           },
           {
             "id": 3,
             "title": "What is Computing?",
-            "coverImageUrl": "https://picsum.photos/id/18/600/400",
+            "coverImageUrl": "",
             "type": "link",
             "link": "https://en.wikipedia.org/wiki/Computing"
           },
